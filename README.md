@@ -9,7 +9,7 @@ MATKUL  : Pemrograman WEB
 
 # DataTables
 
-![img](SS%20website-dinamis/datatabless2.png)
+![img](SS%20website-dinamis/Datatables.png)
 
 
 
