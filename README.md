@@ -9,7 +9,8 @@ MATKUL  : Pemrograman WEB
 
 # DataTables
 
-![Screenshot 2024-11-05 130409](https://github.com/user-attachments/assets/a86818b6-b7ec-4295-b5f6-032fc6fc6496)
+![Screenshot 2024-11-05 140900](https://github.com/user-attachments/assets/33c69c9b-1d84-4f90-8349-799ad2776319)
+
 
 
 # Home
