@@ -1,7 +1,5 @@
 # Website-Dinamis
-
-Nama : Endang Sirait
-
-Kelas : TI.23.A6
-
-NIM : 312310588
+NAMA    : Endang Sirait
+NIM     : 312310588
+KELAS   : TI.23.A6
+MATKUL  : Pemrograman WEB
